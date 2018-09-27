@@ -5,29 +5,135 @@ GitHub page for ECON2125/8013
 
 Australian National University, First Semester 2015
 
+## Announcements
+
+### Last set of solved exercises is up (Posted 26-05-2015) 
+
+See below for practice question set 3.
+
+
+
+### Final Exam Details (Posted 13-04-2015) 
+
+The final exam details are now out.
+
+* Date: June 11th
+* Reading commences: 14:15
+* Writing commences: 14:30
+* Exam ends: 17:30
+
+
+### Midterm Results and Solutions (Posted 29-04-2015) 
+
+The midterm results are up on Wattle.  Marks are out of 100.  As discussed in
+lecture 17, there has been some upward scaling up to make the mean match
+historical averages.  
+
+The midterm exam paper with solutions can be downloaded here:
+
+* [Midterm with solutions](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/midterm_with_solutions.pdf?raw=true) 
+
+Note that the solutions are only indicative --- there are usually many ways to
+tackle these problems.  In particular, any correct approach was treated as
+acceptable as long as it followed the guidelines set out at the top of the
+exam paper.  The same principle will apply to the final.
+
+
+### Midterm Details (Posted 13-04-2015) 
+
+As discussed in the lectures, the midterm exam details are as follows:
+
+* Date: Thursday 23rd April
+* Venue: COPG30
+* Room opens: 18:05
+* Exam commences: 18:15
+* Writing commences: 18:30
+* Exam ends: 20:30
+
+
+
 ## Downloads
 
 ### General
 
-* [Course outline](https://github.com/jstac/econ-2125-8013/blob/master/course_outline.pdf?raw=true) -- start here or see below for an online version
-* [Course notes](https://github.com/jstac/econ-2125-8013/blob/master/course_notes.pdf?raw=true) -- covers part of the course material
+* [Course outline](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/course_outline.pdf?raw=true) -- start here or see below for an online version
+* [Course notes](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/course_notes.pdf?raw=true) -- covers part of the course material
 
 
 ### Lectures
 
-* Forthcoming
+* [Lecture 1](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_1.pdf?raw=true) 
+* [Lecture 2](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_2.pdf?raw=true) 
+* [Lecture 3](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_3.pdf?raw=true) 
+* [Lecture 4](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_4.pdf?raw=true) 
+* [Lecture 5](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_5.pdf?raw=true) 
+* [Lecture 6](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_6.pdf?raw=true) 
+* [Lecture 7](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_7.pdf?raw=true) 
+* [Lecture 8](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_8.pdf?raw=true) 
+* [Lecture 9](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_9.pdf?raw=true) 
+* [Lecture 10](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_10.pdf?raw=true) 
+* [Lecture 11](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_11.pdf?raw=true) 
+* [Lecture 12](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_12.pdf?raw=true) 
+* [Lecture 13](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_13.pdf?raw=true) 
+* [Lecture 14](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_14.pdf?raw=true) 
+* [Lecture 15](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_15.pdf?raw=true) 
+* [Lecture 16](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_16.pdf?raw=true) 
+* [Lecture 17](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_17.pdf?raw=true) 
+* [Lecture 18](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_18.pdf?raw=true) 
+* [Lecture 19](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_19.pdf?raw=true) 
+* [Lecture 20](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_20.pdf?raw=true) 
+* [Lecture 21](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_21.pdf?raw=true) 
+* [Lecture 22](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_22.pdf?raw=true) 
+* [Lecture 23](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_23.pdf?raw=true) 
+* [Lecture 24](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_24.pdf?raw=true) 
+* [Lecture 25](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_25.pdf?raw=true) 
+* [Lecture 26](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/lecture_26.pdf?raw=true) 
+
 
 
 ### Tutorial Questions
 
-* Forthcoming
+* [Tutorial for week 2](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON8013_TQ1.pdf?raw=true)
+* [Tutorial for week 3](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON8013_TQ2.pdf?raw=true)
+* [Tutorial for week 4](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON8013_TQ3.pdf?raw=true)
+* [Selected solutions for week 4 tutorial](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/Selected_solutions_for_Week_4_tutorial.pdf?raw=true)
+* [Tutorial for week 5](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON8013_TQ4.pdf?raw=true)
+* [Tutorial for week 6](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON8013_TQ5.pdf?raw=true)
+* [Tutorial for week 8](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON8013_TQ7.pdf?raw=true)
+* [Tutorial for week 9](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON8013_TQ8.pdf?raw=true)
+* [Tutorial for week 10](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON8013_TQ9.pdf?raw=true)
+* [Tutorial for week 11](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON2125_4021_8013TQ10.pdf?raw=true)
+* [Tutorial for week 12](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON2125_4021_8013TQ11.pdf?raw=true)
+* [Tutorial for week 13](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON2125_4021_8013TQ12.pdf?raw=true)
+* [Tutorial for week 13 - additional](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/ECON2125_4021_8013TQ13.pdf?raw=true)
+
+### Practice Questions
+
+* [Set 1](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/practice_qs_1.pdf?raw=true)
+* [Set 1 solutions](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/practice_qs_1_solutions.pdf?raw=true)
+
+* [Set 2](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/practice_qs_2.pdf?raw=true)
+* [Set 2 solutions](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/practice_qs_2_solutions.pdf?raw=true)
+
+
+* [Set 3](http://github.com/jstac/econ-2125-8013/blob/master/PDFs/practice_qs_3.pdf?raw=true) (Solutions in the same file)
+
+## Links
+
+Some links that might be of use are
+
+* [math.stackexchange](http://math.stackexchange.com)  -- answer for your maths questions
+* [Martin Osborne's online notes](https://www.economics.utoronto.ca/osborne/MathTutorial/index.html) -- optimization for economists
+* [quant-econ](http://quant-econ.net/) -- mix of theory and programming in Python
+
 
 
 
 
 ## General information
 
-The information below is identical to the information in the [course outline](https://github.com/jstac/econ-2125-8013/blob/master/course_outline.pdf?raw=true) and repeated only for convenience.
+The information below is identical to the information in the [course outline](https://github.com/jstac/econ-2125-8013/blob/master/PDFs/course_outline.pdf?raw=true) and repeated only for convenience.
+
 
 ### Titles 
 
@@ -128,7 +234,7 @@ this course are
 
 Name | Email | Room
 --------------| ---------------------------| -----------------------------
-Qingyin Ma    | `qingyin.ma@anu.edu.au`    | Room 1125 Copeland Building
+Qingyin Ma    | `qingyin.ma@anu.edu.au`    | Room 1125 Copland Building
 Guanlong Ren  | `guanlong.ren@anu.edu.au`  | Room 2018 HW Arndt Building
 
 ### Resources 
